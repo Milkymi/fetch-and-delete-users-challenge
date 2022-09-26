@@ -1,0 +1,25 @@
+.container {
+  width: 600px;
+  margin: auto;
+  font-size: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 25px;
+  margin-bottom: 25px;
+}
+
+
+ul, li {
+  border: 1px solid lightgray;
+  padding: 15px;
+  list-style-type: none;
+}
+
+.error {
+  background-color: lightpink;
+  border: 1px solid palevioletred;
+  padding: 15px;
+}
